@@ -1,0 +1,27 @@
+[
+  {
+    "KpiName": "Total SKUs",
+    "Value": 989,
+    "FormattedValue": "989"
+  },
+  {
+    "KpiName": "Out-of-Stock Items",
+    "Value": 546,
+    "FormattedValue": "546"
+  },
+  {
+    "KpiName": "Cost of Inventory (Stock Value)",
+    "Value": 191167.75,
+    "FormattedValue": "191.168 \u20AB"
+  },
+  {
+    "KpiName": "Average Daily Sales",
+    "Value": 665.89,
+    "FormattedValue": "665,89"
+  },
+  {
+    "KpiName": "Average Inventory Age",
+    "Value": 2601.77,
+    "FormattedValue": "2.601,77"
+  }
+]
